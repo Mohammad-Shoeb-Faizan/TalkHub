@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Chat Application Project
 
 Welcome to the Chat Application project! This README is designed to help you understand the project, its components, and how it works without requiring any coding knowledge.
@@ -55,3 +56,6 @@ If you encounter any issues, have questions, or need further assistance, please 
 This README is intended to provide you with a basic understanding of how the chat application works without diving into the code. We hope you enjoy using the application to chat with others!
 
 If you have any feedback or suggestions for improvement, don't hesitate to share them on shoebfaizan71@gmail.com. Your input is valuable in making this application even better, carved according to your requirements.
+=======
+# TalkHub
+>>>>>>> 199ccaf1139fee8c6d6b6bf3d94db42b2d4174a0
